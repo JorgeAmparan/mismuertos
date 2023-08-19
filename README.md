@@ -2,7 +2,7 @@
 
 ## A blog exercise where I express my thoughts about life and death in regard to mexican traditional celebration of the Day of the Dead.
 
-![Catrina](https://user-images.githubusercontent.com/115447825/212738021-62b87aa3-54cb-4d3c-b604-c9d70d52d57c.jpg)
+![Catrin](https://user-images.githubusercontent.com/115447825/212738021-62b87aa3-54cb-4d3c-b604-c9d70d52d57c.jpg)
 
 ## Las cañas de azúcar
 
